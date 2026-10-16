@@ -8,7 +8,9 @@ Index page (the link to use in "experience in this niche" fields): https://docs.
 |---|---|---|
 | Portfolio index | [link](https://docs.google.com/document/d/1p24HrKd2MbBAKQ3WQrAetj7mzueIu92A0_xpMPpxN5E/edit) | `portfolio_index.md` / `.html` |
 | Full episode script (spec) | [link](https://docs.google.com/document/d/1tX-Cy8xuZ_OTxEoeS3WPRP8qXrhySyPvGuY2qYAsB4Y/edit) | `latunski_full_script.md` / `.html` |
-| Trial opening (submitted as "Sample") | [link](https://docs.google.com/document/d/1qNmG7V6o6AcAiomlp_GVtj4t3JFgtoHx0qglKQBW8VA/edit) | `../latunski-trial/script/` |
+| Trial opening (submitted as "Sample") | [link](https://docs.google.com/document/d/1qNmG7V6o6AcAiomlp_GVtj4t3JFgtoHx0qglKQBW8VA/edit) · [v2, checked against the guide](https://docs.google.com/document/d/1GQSHnCavi8glxBcsqWzkySIxOhZ6FsXs341EhbDt5T0/edit) | `../latunski-trial/script/` |
+| Jodi Arias — full episode script + full transcript | [link](https://docs.google.com/document/d/1qS9jx4Kh9-JjQg6q9NGUQFeRTWroHuflSi5Pio3cXz0/edit) | `../scripts/jodi_arias_full_script_extended.md` |
+| Dalia Dippolito — full episode script + full transcripts | [link](https://docs.google.com/document/d/1vngApOk5qjErD87LemwEgljVle-BR-TQpTDK-y-h9HM/edit) | `../scripts/dalia_dippolito_full_script_extended.md` |
 | Research dossier & clip bank | [link](https://docs.google.com/document/d/1fOYtE2Tg96w2T6SBuwCqCXwIFlbl284x2aNeuNZuZR4/edit) | `latunski_research_dossier.md` / `.html` |
 | Interrogation breakdown | [link](https://docs.google.com/document/d/1zewMCArMkCybyKidQng07WTAwFNKx3rcxmHx09_bnz0/edit) | `latunski_interrogation_breakdown.md` / `.html` |
 | YouTube-safe style guide | [link](https://docs.google.com/document/d/1Cv3caL39SH7M2y-y0LeZoGftdd_qdL7NgAadG2zbKWc/edit) | `youtube_safe_style_guide.md` / `.html` |

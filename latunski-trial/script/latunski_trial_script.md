@@ -11,10 +11,15 @@ Trial section: intro hook & setup, first narration point, first clip section.
 **Clip sources** (every timestamp link below opens the file at that second):
 
 - [911 Call #1 — Oct 10, 2019](https://drive.google.com/file/d/1xH7nVTkM3EjnyvIjwh8FTlS0Z44FJnxC/view?usp=sharing)
+
 - [911 Call #2 — Nov 25, 2019](https://drive.google.com/file/d/1rzVr_3SIxaMkJzQaoV2yamb0Ji8bm8Kq/view?usp=sharing)
+
 - [PT 1 MSP Interrogation (Dec 28, 2019, Camera 1)](https://drive.google.com/file/d/1QtV2qPnjRlot9iSnDN9Iy0Q2R5PbViW3/view?usp=sharing)
+
 - [PT 2 MSP Interrogation (Dec 28, 2019, Camera 2)](https://drive.google.com/file/d/1Mas7Ms53h2_Lc82l_JmgaLmmD_90jly7/view?usp=sharing)
+
 - [PT 3 MSP Interrogation (Dec 30, 2019, jail interview, second half)](https://drive.google.com/file/d/1I0Naoly8xAT0xhfdPm6TP9YbGdieQ2rL/view?usp=sharing)
+
 - [PT 4 MSP Interrogation (Dec 30, 2019, jail interview, first half)](https://drive.google.com/file/d/12DAgSRVcOp03TAS_A1si1DErYwGyxEOI/view?usp=sharing)
 
 Case files: Michigan State Police incident 035-0007899-19 (PT 1 Case Report, 12/28/2019).
@@ -98,6 +103,10 @@ Small fuzz transition
 
 **@editor report page 2, highlight: "I could see a blue light, black leather gear/equipment, and chrome colored chain through an east side upper window."**
 
+**Play clip [0:20:24-0:20:33](https://drive.google.com/file/d/1QtV2qPnjRlot9iSnDN9Iy0Q2R5PbViW3/view?usp=sharing&t=1224) (PT 1 MSP Interrogation)** **(the detective, five hours later, describing that moment)**
+
+🔵 *Detective 1: There's a welfare check… you let the troopers go in and search your house, and they see a man… who is that man?*
+
 🔴 He said he was home alone. He said he had never heard of anyone named Kevin Bacon. And when the trooper asked to come in and look around, he said:
 
 **@editor pull the quote straight from the report, full screen, typewriter reveal: "Yeah sure, come on in."**
@@ -165,7 +174,13 @@ Small fuzz transition
 
 ## Writer's notes (not for the edit)
 
+- Checked against the channel's writing guide: narration breaks of 20 to 59 seconds, no clip run over three minutes, intro built as a mystery hook (two 911 calls before the suspect is named), set up broken by a short clip so the viewer hears the detective before the interview starts.
+
 - Hook logic: two men called 911 from the same road after getting out of Latunski's basement in the two months before Kevin Bacon died (Oct 10 and Nov 25, 2019). Neither pressed charges. Both calls are in the Trial Audio folder; Latunski is questioned about both men in the Dec 30 interview (PT 4 from 18:51, PT 3 from 8:03) and about the November runaway in the main interview (PT 1 from 2:06:08). Neighbor statements on the November incident are in the case report, supplemental 0003, pages 2-5.
+
 - YouTube safety: no cause of death, no description of the body or the room beyond "chains on the walls", no mention of what happened after the death. 911 callers' swearing is marked [muted]. The detectives' reference to "sex room" in the report is not shown on screen.
+
 - All timestamps come from my own transcription of the six files; every link opens the Drive file at that second. Interview time (5:56 AM) is from Camera 2.
+
 - Clips already lined up for the next sections: "I don't feel that I did anything wrong" (PT 1, 1:09:58), "Have you taken the life of anybody else?" (PT 1, 1:57:44), the Nov 25 runaway in his words (PT 1, 2:06:08), "Mark was killed with a stroke of a pen" (PT 4, 6:31) and "there is not a cache of bodies around somewhere" (PT 3, 25:14).
+

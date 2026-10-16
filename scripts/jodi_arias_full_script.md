@@ -34,15 +34,25 @@ Every transcription line is taken from the released interview recording; timesta
 
 ## SET UP
 
-🔴 On June 9th, 2008, friends of Travis Alexander let themselves into his house in Mesa, Arizona. They had not heard from him in five days. They found him in the shower of his master bathroom. Travis was 30 years old, a salesman and motivational speaker, and a member of the Mormon church. He had been stabbed many times and shot. That is as far as this video is going to go with the details.
+🔴 On June 9th, 2008, friends of Travis Alexander let themselves into his house in Mesa, Arizona. They had not heard from him in five days. They found him in the shower of his master bathroom. Travis was 30 years old, a salesman and motivational speaker, and a member of the Mormon church. He had multiple stab wounds and a single gunshot wound. That is as far as this video is going to go with the details.
 
-**@editor exterior of the Mesa house, daytime, no scene photographs. Then Travis's public photo.**
+**@editor exterior of the Mesa house, daytime, no scene photographs. Then Travis's public photo. Then the washing machine, as a text card: "digital camera recovered from the washing machine".**
 
-🔴 In the washing machine, police found a digital camera. The memory card had been wiped, but the lab recovered the deleted pictures. They showed Travis in bed on the afternoon of June 4th with his ex-girlfriend, Jodi Arias, who lived nine hundred miles away in northern California. Then Travis in the shower at 5:29 pm. Then, a few minutes later, a photo taken by accident, pointed at the ceiling, with a foot and a pair of striped pants at the edge of the frame. There was also a bloody palm print on the bathroom wall, and a long strand of hair stuck in blood.
+**Play clip [1:00:18-1:00:57](https://youtu.be/cNFmNcyWz-U?t=3618) (Interrogation Part 1) — Flores, five weeks later, explaining what the lab did with that camera**
+
+🔵 *Flores: We can pull deleted photos. I don't care if you deleted them six months ago. We can pull every photo that was ever on there… get the timestamps on them… And I have pictures of you in Travis's bedroom with Travis… and they're dated and timestamped on the day he died.*
+
+🔴 The memory card had been wiped. The lab recovered the pictures anyway. They showed Travis in bed on the afternoon of June 4th with his ex-girlfriend, Jodi Arias, who lived nine hundred miles away in northern California. Then Travis in the shower at 5:29 pm. Then, a few minutes later, a photo taken by accident, pointed at the ceiling, with a foot and a pair of striped pants at the edge of the frame. There was also a palm print on the bathroom wall, left in blood. And a long strand of hair, stuck in blood.
 
 **@editor show the three evidence items as text cards, not photos: "camera recovered from washing machine", "palm print, left hand, in blood", "hair with root, in blood".**
 
-🔴 Jodi Arias had been telling detectives on the phone for a month that she had not seen Travis since April. She had also been on a solo road trip that week: a rented white Ford Focus, Monday to Thursday, with her phone switched off for most of Wednesday. A week before the murder, her grandparents in Yreka, California, had reported a break-in. Among the items missing was a .25 caliber pistol, the same caliber as the bullet in Travis.
+**Play clip [1:06:00-1:06:20](https://youtu.be/cNFmNcyWz-U?t=3960) (Interrogation Part 1) — approximate; set exact in/out at the edit**
+
+🔵 *Flores: That records check shows that you had reported a gun stolen. A .25 auto. This happens to be the same caliber as the weapon used to kill him.*
+
+🔴 Jodi Arias had been telling detectives on the phone for a month that she had not seen Travis since April. That week she had been on a solo road trip: a rented white Ford Focus, Monday to Thursday, with her phone switched off for most of Wednesday. And a week before the murder, her grandparents in Yreka, California, had reported a break-in at their house. Among the items missing was a .25 caliber pistol.
+
+**@editor map card: Yreka to Mesa, 900 miles, with the Monday-to-Thursday dates. No photos of the grandparents' house.**
 
 🔴 On July 15th, 2008, a grand jury indictment in hand, Detective Esteban Flores flew to Yreka and arrested her at her grandparents' house. At one minute past ten that morning, in a borrowed room at the Siskiyou County Sheriff's Office, he sat down across from her with a folder he was not going to open yet.
 
@@ -88,7 +98,7 @@ Every transcription line is taken from the released interview recording; timesta
 
 **@editor hold on Flores's hands on the closed folder for the next narration.**
 
-🔴 She has just told him she was not in the state. He has her blood, her hair, her palm print and her face in the dead man's camera. He is not going to show her any of it yet. He is going to tell her about the camera first, and watch what she does with it.
+🔴 She has just told him she was not in the state. He has her blood, her hair, her palm print and her face in Travis's camera. He is not going to show her any of it yet. He is going to tell her about the camera first, and watch what she does with it.
 
 **Play clip [0:59:39-1:01:00](https://youtu.be/cNFmNcyWz-U?t=3579) (Interrogation Part 1)**
 
@@ -145,6 +155,8 @@ Every transcription line is taken from the released interview recording; timesta
 🔵 *Jodi: If I go to trial for this and if I'm convicted for this, whoever did this is going to be sitting very pretty somewhere. Glad that it wasn't them.*  
 *Flores: And it's my job to make sure that an innocent person does not go to jail. But I don't see an innocent person sit in front of me.*
 
+🔴 Nearly two hours in, she has not raised her voice once. She has not cried. Flores has noticed, and he is about to say so. First he asks her the question every detective asks, and gets an answer about a dog.
+
 **Play clip [1:56:50-1:57:00](https://youtu.be/cNFmNcyWz-U?t=7010) (Interrogation Part 1)**
 
 🔵 *Flores: So don't tell me that you're not capable.*  
@@ -180,7 +192,7 @@ Every transcription line is taken from the released interview recording; timesta
 
 🔵 *Jodi: This is a really trivial question, and it's going to reveal how shallow I am. But before they book me, can I clean myself up a little bit?*
 
-**Play clip [2:21:30-2:25:40](https://youtu.be/cNFmNcyWz-U?t=8490) (Interrogation Part 1) — Flores has left; Jodi alone. Set exact in/out at the edit**
+**Play clip [2:21:30-2:22:50](https://youtu.be/cNFmNcyWz-U?t=8490) (Interrogation Part 1) — Flores has left; Jodi alone. Set exact in/out at the edit; keep the clip under 90 seconds**
 
 🔵 *Jodi (alone): You should have at least done your makeup, Jodi. Gosh.*  
 *Jodi (alone, singing): O holy night, the stars are brightly shining…*
@@ -202,7 +214,8 @@ Every transcription line is taken from the released interview recording; timesta
 **@editor end on a photo of Travis from his public profile. Hold on black for three seconds before end card.**
 
 ## Writer's notes
-- About 800 words of narration and 1,000 of transcription; no clip run over three minutes; narration breaks under 60 seconds.
+- Checked against the RTC writing guide: every narration break is under 60 seconds (longest about 45 seconds), no clip or clip run between narration breaks is over three minutes, and the set up is interleaved with two short clips so the viewer hears the evidence before the interview starts.
+- Writer's share (narration plus intro and set-up transcriptions) is about 1,000 words, inside the 700-1,500 range; the interview transcriptions are included as a courtesy for the transcription team and can be dropped from the count.
 - YouTube safety: the injuries are summarized in one sentence; no scene or autopsy photographs; the photos from the camera are described, not shown; the sexual content of the recovered photos is not described.
 - Timestamps were matched automatically between the released transcript and the video's caption track. Two clips (the solo scene at 2:21 and the handcuffs at 2:39) need exact in/out points set at the edit.
 - The second interview (July 16, 2008) and the 2013 trial are summarized in the outro and could become a part two.

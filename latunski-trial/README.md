@@ -4,6 +4,7 @@ Material for the "True crime scriptwriter" application for the YouTube channel R
 
 ## Deliverable
 - Google Doc submitted as the "Sample": https://docs.google.com/document/d/1qNmG7V6o6AcAiomlp_GVtj4t3JFgtoHx0qglKQBW8VA/edit
+- v2 (set up split with a clip so every narration break is under 60 s, as the channel's guide asks): https://docs.google.com/document/d/1GQSHnCavi8glxBcsqWzkySIxOhZ6FsXs341EhbDt5T0/edit
 - Same content in this repo: [`script/latunski_trial_script.html`](script/latunski_trial_script.html) (formatted, red/blue) and [`script/latunski_trial_script.md`](script/latunski_trial_script.md) (readable on GitHub).
 
 Scope of the trial: intro hook & setup, first narration point, first clip section. About 500 words of narration and 500 of transcription.
@@ -14,7 +15,7 @@ Two men called 911 from the same road near Latunski's house in the two months be
 ## Folder layout
 - `script/` — the trial script (HTML with colours, Markdown copy).
 - `transcripts/` — AssemblyAI transcriptions with timestamps and speaker labels of all six trial files: `911_pt1` (Oct 10 call), `911_pt2` (Nov 25 call), `video_pt1` (3h19m main interview, Dec 28, camera 1), `video_pt2` (camera 2, first 10 min), `video_pt4` and `video_pt3` (Dec 30 jail interview, first and second half, in that order).
-- `sources/` — the police report as text, the application form questions and links, and a summary of the channel's writing guide.
+- `sources/` — the police report as text, the application form questions and links, a summary of the channel's writing guide and its full text (`rtc_writing_guide_full.md`).
 - `../tools/` — scripts used: Google Form extractor, AssemblyAI poller, the HTML builder for the script.
 
 ## How it was made

@@ -84,6 +84,8 @@ nar("On Christmas morning 2019, 25-year-old Kevin Bacon did not come home to his
 ed("show the Michigan State Police report cover page (incident 035-0007899-19) and the line \"missing since 12/24/2019\".")
 nar("Just after midnight on December 28th, five officers approached a brick house on Tyrrell Road. Two of them crept across a frozen field first, to watch the windows. Through an upstairs window: a blue light, black leather gear, a chrome chain. Then the others pulled into the driveway and knocked. The man who opened the door was wearing a kilt.")
 ed("report page 2, highlight: \"I could see a blue light, black leather gear/equipment, and chrome colored chain through an east side upper window.\"")
+clip("Play clip","PT1","0:20:24","0:20:33", note="(the detective, five hours later, describing that moment)")
+tr(["Detective 1: There's a welfare check… you let the troopers go in and search your house, and they see a man… who is that man?"])
 nar("He said he was home alone. He said he had never heard of anyone named Kevin Bacon. And when the trooper asked to come in and look around, he said:")
 ed("pull the quote straight from the report, full screen, typewriter reveal: \"Yeah sure, come on in.\"")
 nar("At the far end of the basement, Trooper Viviano found a sliding barn door. Behind it, a second door, bolted from the outside and warm to the touch. Behind that, a hidden room with chains on the walls. And inside it, the young man they had come looking for.")
@@ -130,6 +132,7 @@ ed("end of trial section.")
 H("Writer's notes (not for the edit)")
 out.append("<ul>")
 for t in [
+ "Checked against the channel's writing guide: narration breaks of 20 to 59 seconds, no clip run over three minutes, intro built as a mystery hook (two 911 calls before the suspect is named), set up broken by a short clip so the viewer hears the detective before the interview starts.",
  "Hook logic: two men called 911 from the same road after getting out of Latunski's basement in the two months before Kevin Bacon died (Oct 10 and Nov 25, 2019). Neither pressed charges. Both calls are in the Trial Audio folder; Latunski is questioned about both men in the Dec 30 interview (PT 4 from 18:51, PT 3 from 8:03) and about the November runaway in the main interview (PT 1 from 2:06:08). Neighbor statements on the November incident are in the case report, supplemental 0003, pages 2-5.",
  "YouTube safety: no cause of death, no description of the body or the room beyond \"chains on the walls\", no mention of what happened after the death. 911 callers' swearing is marked [muted]. The detectives' reference to \"sex room\" in the report is not shown on screen.",
  "All timestamps come from my own transcription of the six files; every link opens the Drive file at that second. Interview time (5:56 AM) is from Camera 2.",
@@ -138,7 +141,18 @@ for t in [
     out.append(f"<li>{html.escape(t)}</li>")
 out.append("</ul></body></html>")
 htmltext="\n".join(out)
-open("/tmp/claude-0/-home-user/3bc9c0fa-8e23-5c94-a123-f25e0633ea26/scratchpad/out/latunski_trial_script.html","w").write(htmltext)
+OUT="/home/user/true-crime-scriptwriter/latunski-trial/script/latunski_trial_script"
+open(OUT+".html","w").write(htmltext)
+def to_md(h):
+    h=re.sub(r'<span style="color:#c00000">(.*?)</span>',r'🔴 \1',h,flags=re.S)
+    h=re.sub(r'<span style="color:#1155cc">(.*?)</span>',r'🔵 \1',h,flags=re.S)
+    h=re.sub(r'<h1>(.*?)</h1>',r'# \1\n',h); h=re.sub(r'<h2>(.*?)</h2>',r'\n## \1\n',h)
+    h=re.sub(r'<a href="([^"]+)">(.*?)</a>',r'[\2](\1)',h)
+    h=re.sub(r'<b>(.*?)</b>',r'**\1**',h,flags=re.S); h=re.sub(r'<i>(.*?)</i>',r'*\1*',h,flags=re.S)
+    h=h.replace("<br>","  \n").replace("<ul>","").replace("</ul>","").replace("<li>","- ").replace("</li>","\n")
+    h=re.sub(r'<p>(.*?)</p>',r'\1\n',h,flags=re.S).replace("<html><body>","").replace("</body></html>","")
+    return re.sub(r'\n{3,}','\n\n',html.unescape(h))
+open(OUT+".md","w").write("> Markdown copy for reading on GitHub. 🔴 = narration (red in the Doc), 🔵 = transcription (blue in the Doc). The formatted version is `latunski_trial_script.html` and the Google Doc linked in the README.\n\n"+to_md(htmltext))
 # word count of script body (excluding notes and source list)
 body=htmltext.split("<h2>INTRO</h2>")[1].split("<h2>Writer")[0]
 text=re.sub(r"<[^>]+>"," ",body)

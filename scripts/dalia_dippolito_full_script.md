@@ -36,17 +36,21 @@ Every transcription line is taken from the released recordings; the interrogatio
 
 ## SET UP
 
-🔴 Dalia and Michael Dippolito had been married six months. He was 38, on probation for a fraud conviction, and trying to buy his way off it. She was 26, and had met him, by his own account, as an escort he called to his office. In July 2009, a man Dalia had been seeing on the side walked into the Boynton Beach police department and said she had asked him to find her a hitman.
+🔴 Dalia and Michael Dippolito had been married six months. He was 38, on probation for a fraud conviction, and trying to buy his way off it. She was 26. In July 2009, a man Dalia had been seeing on the side walked into the Boynton Beach police department and said she had asked him to find her a hitman. Before any of that, there was the question of how the two of them had met. Michael answered it himself, at 7:19 that morning.
+
+**Play clip set at edit (Michael Dippolito interview)**
+
+🔵 *Michael: We met, I believe, in October, and she's actually an escort. That's how I met her. She came to my office one day.*
 
 **@editor show the probable-cause affidavit cover and the line about the $1,200 for a gun. No photos of the informant.**
 
-🔴 Police gave her one. On August 3rd an undercover officer, Widy Jean, met her in a CVS parking lot with a camera running. He asked if she was sure. Her answer is the reason this case has a name. She said she was five thousand percent sure. Then she gave him a key to the house, and a time: Wednesday morning, when she would be at the gym.
+🔴 Police gave her a hitman. On August 3rd an undercover officer, Widy Jean, met her in a CVS parking lot with a camera running. He asked if she was sure. Her answer is the reason this case has a name. She said she was five thousand percent sure. Then she gave him a key to the house, and a time: Wednesday morning, when she would be at the gym.
 
-🔴 On Wednesday morning she went to the gym. While she was gone, Boynton Beach police strung crime scene tape across her front door, parked their cars in the street, and invited a camera crew from the television show Cops to film what happened next. Her husband, who had had back surgery the week before, was already with detectives. Then they called her and asked her to come home.
+**Play clip set at edit (Cops staged-scene footage) — officers stringing crime scene tape across the front door; no audio under the narration**
+
+🔴 On Wednesday morning she went to the gym. While she was gone, Boynton Beach police taped off her front door, parked their cars in the street, and invited a camera crew from the television show Cops to film what happened next. Her husband, who had had back surgery the week before, was already with detectives. Then they called her and asked her to come home. A sergeant met her in the street and told her Michael was dead. She collapsed. They put her in a car and drove her to the station, as a widow.
 
 **@editor Cops footage: Dalia arriving, the sergeant telling her, her reaction. Keep it under fifteen seconds. We are not going to replay the scream.**
-
-🔴 A sergeant met her in the street and told her Michael was dead. She collapsed. They put her in a car and drove her to the station, as a widow.
 
 ## INTERVIEW START
 
@@ -124,10 +128,6 @@ Every transcription line is taken from the released recordings; the interrogatio
 
 **Play clip set at edit (Michael Dippolito interview)**
 
-🔵 *Michael: We met, I believe, in October, and she's actually an escort. That's how I met her. She came to my office one day.*
-
-**Play clip set at edit (Michael Dippolito interview)**
-
 🔵 *Michael: I basically, I lost $240,000 with this girl. It's unexplainable money. Just stupid stories, one after the other. I'm the stupid one, you know.*
 
 **Play clip set at edit (Michael Dippolito interview)**
@@ -176,14 +176,15 @@ Every transcription line is taken from the released recordings; the interrogatio
 
 ## OUTRO
 
-🔴 The Cops episode aired. The parking-lot video went around the world. In 2011 a jury convicted Dalia Dippolito of solicitation to commit first-degree murder and she was sentenced to 20 years. An appeals court threw that out over errors in jury selection. Her second trial, in 2016, ended with the jury split three to three. Her defense by then was that the whole thing had been an act: a reality-show stunt that the police, and the cameras, had been happy to play along with. Michael Dippolito and the informant both denied it under oath.
+🔴 In 2011 a jury convicted Dalia Dippolito of solicitation to commit first-degree murder and she was sentenced to 20 years. An appeals court threw that out over errors in jury selection. Her second trial, in 2016, ended with the jury split three to three. Her defense by then was that the whole thing had been an act: a reality-show stunt that the police, and the cameras, had been happy to play along with. Michael Dippolito and the informant both denied it under oath.
 
 🔴 In June 2017 a third jury took ninety minutes to convict her. On July 21st, 2017, she was sentenced to 16 years in prison. Nobody was hurt in this case. That is the strangest thing about it, and the reason the footage still exists: for one morning, the only person in Boynton Beach who believed a man had been murdered was the woman who had paid for it.
 
 **@editor end on the Cops exterior shot, tape still up, no people in frame.**
 
 ## Writer's notes
-- About 700 words of narration and 930 of transcription; the strongest clips are under 90 seconds and the narration breaks under 50 seconds.
+- Checked against the RTC writing guide: every narration break is under 60 seconds, no clip run between narration breaks is over three minutes, and the set up is broken up by Michael's own line and the Cops footage.
+- Writer's share (narration plus intro and set-up transcriptions) is about 800 words, inside the 700-1,500 range; the interview transcriptions are included as a courtesy for the transcription team.
 - YouTube safety: no reenactment of the scream, no replay of the staged-scene reaction beyond fifteen seconds, the informant is not named, the escort detail is Michael's own words and stays in his clip.
 - Interrogation lines were cleaned from the video's auto-captions; a final pass against the audio is required before the cut. Michael's interview has no caption track yet, so those clips carry no timestamp.
 - The Aug 3 parking-lot recording is public but not in the source files; the "5,000 percent" line is used only as the sergeant quotes it.
